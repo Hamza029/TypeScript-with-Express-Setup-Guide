@@ -8,7 +8,7 @@ npm init -y
 
 ## Update main field
 
-Update the `main` field in `package.json` from `index.js` to `dist/index.ts`
+Update the `main` field in `package.json` from `index.js` to `dist/index.js`
 
 ## Create a Express server
 
