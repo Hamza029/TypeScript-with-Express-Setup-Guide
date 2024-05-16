@@ -16,13 +16,13 @@ Update the `main` field in `package.json` from `index.js` to `dist/index.ts`
 npm i express dotenv
 ```
 
+The `DotEnv` package is utilized to read environment variables from the `.env` file.
+
 ## Install TypeScript with Express and Node types as dev dependency
 
 ```bash
 npm i -D typescript @types/express @types/node
 ```
-
-The `DotEnv` package is utilized to read environment variables from the `.env` file.
 
 ## Create index.ts
 
